@@ -1,23 +1,23 @@
 ![WhatsApp Image 2025-09-28 at 15 08 03_c93a4e6b](https://github.com/user-attachments/assets/9dd7b8c7-e431-485f-b50b-956c96fcc7c8)
 📂 Project Structure
 
-data/ → Contains the dataset used for analysis (CSV/Excel).
-Exploratory Data Analysis.ipynb → Initial data cleaning and exploration.
-vendor performance analysis.ipynb → Detailed vendor performance analysis with Python (Pandas, Matplotlib, Seaborn).
-get_vendor_summary.py → Script to generate vendor summary reports.
-vendor performance.pbix → Power BI dashboard for interactive visualization
+data/ → Contains the dataset used for analysis (CSV/Excel).     
+Exploratory Data Analysis.ipynb → Initial data cleaning and exploration.     
+vendor performance analysis.ipynb → Detailed vendor performance analysis with Python (Pandas, Matplotlib, Seaborn).    
+get_vendor_summary.py → Script to generate vendor summary reports.        
+vendor performance.pbix → Power BI dashboard for interactive visualization     
 
 🧭 Motivation & Goals
 
-To monitor and measure vendor performance across different dimensions (e.g. delivery time, quality, cost, reliability)
-To surface insights and trends that help business stakeholders make data-driven decisions
-To build an interactive dashboard for stakeholder usage
+To monitor and measure vendor performance across different dimensions (e.g. delivery time, quality, cost, reliability)     
+To surface insights and trends that help business stakeholders make data-driven decisions      
+To build an interactive dashboard for stakeholder usage     
 
 🛠️ Technologies & Tools Used
-Python (pandas, numpy, matplotlib, seaborn, etc.)
-Jupyter Notebooks
-Power BI (for visualization & dashboarding)
-Git for version control
+Python (pandas, numpy, matplotlib, seaborn, etc.)      
+Jupyter Notebooks     
+Power BI (for visualization & dashboarding)     
+Git for version control   
 
 Business Problem
 
