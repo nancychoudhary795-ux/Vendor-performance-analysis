@@ -72,4 +72,8 @@ Brands for promotional or pricing adjustments
 
 These brand exhibit lower sales but higher progit margins, which could benefit from targeted marketing, promotions or price optimization to increase volume without compromising profitability.
 
+POWER BI DASHBOARD
+<img width="906" height="504" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/42956c95-087b-4a5a-b655-2d6d2e1d00f0" />
+
+
 
