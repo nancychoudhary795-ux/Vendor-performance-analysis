@@ -41,5 +41,16 @@ CORRELATION INSIGHTS
 <img width="1054" height="826" alt="image 2" src="https://github.com/user-attachments/assets/8ea2da76-5e04-4a8e-968f-c7187dde2741" />
 
 
+Purchase price VS Total sales dollar and Gross profit:  Week correlation (-0.012 and-0.016) ,indicating that price variation do not significantly impact sales revenue or profit.
+Total purchase quantity VS Total sales quantity: Strong correlation (0.999) , confirming efficient inventory turnover.
+Profit margin VS Total sales price: Negative correlation (-0,179), suggesting increasing sales price may lead to reduced margins, possibly due to competitive pricing pressure.
+Stock turnover VS Gross profit & Profit margin: weak negative correlation ,indicating that faster stock turnover does not necessarily equate to higher profitability.
+
+
+Research questions and key findings
+Brands for promotional or pricing adjustments
+<img width="421" height="550" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/713a9e6d-2881-4069-acaa-28005652ba3d" />
+
+These brand exhibit lower sales but higher progit margins, which could benefit from targeted marketing, promotions or price optimization to increase volume without compromising profitability.
 
 
